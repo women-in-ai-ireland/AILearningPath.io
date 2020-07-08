@@ -1,12 +1,14 @@
-# Welcome Women in AI Ireland Learning Paths
+# Welcome to Women in AI Ireland Learning Paths
 On completion of this Learning Path, you will have the foundational skills to apply in an Artificial Intelligence Project to:
 -          Evaluate how AI will add value
 -          Identify and assess the ethical, privacy issues in an AI initiative
 -          Define a fair and equitable approach to data collection and processing
 -          Collect, clean and process data to derive insights and for AI applications
 -          Build machine learning models
+
 ## Introduction to AI
 Elements of AI: https://www.elementsofai.com
+
 ## AI and Ethics
  Toby Walsh | TEDxBlighStreet: https://www.youtube.com/watch?v=HSsQApXQGsI
 Covering computer vision in practice, data ethics, working towards socially responsible and ethics-informed research practices:  https://sites.google.com/view/fatecv-tutorial/schedule
@@ -33,7 +35,7 @@ https://exercism.io/
 https://leetcode.com/
 
 ## Further Studying
-https://exercism.io/
+[Link](https://exercism.io/)
 https://leetcode.com/
 
 ## Other FAQs:
