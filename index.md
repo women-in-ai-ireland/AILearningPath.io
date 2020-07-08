@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Welcome Women in AI Ireland Learning Paths
+On completion of this Learning Path, you will have the foundational skills to apply in an Artificial Intelligence Project to:
+-          Evaluate how AI will add value
+-          Identify and assess the ethical, privacy issues in an AI initiative
+-          Define a fair and equitable approach to data collection and processing
+-          Collect, clean and process data to derive insights and for AI applications
+-          Build machine learning models
+## Introduction to AI
+Elements of AI: https://www.elementsofai.com
+## AI and Ethics
+ Toby Walsh | TEDxBlighStreet: https://www.youtube.com/watch?v=HSsQApXQGsI
+Covering computer vision in practice, data ethics, working towards socially responsible and ethics-informed research practices:  https://sites.google.com/view/fatecv-tutorial/schedule
 
-You can use the [editor on GitHub](https://github.com/iclaudiad/AILearningPath.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Mathematics
+Why Math matters: https://www.youtube.com/watch?v=8onB7rPG4Pk
+Statistics and Probability: https://www.udemy.com/course/statistics-probability/
+Linear Algebra: https://www.udemy.com/course/linear-algebra-course/
+Calculus: https://www.udemy.com/course/calculus1/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Programming
+Python (Pick one of the following)
+Learn Python with Dr. Chuck
+https://www.youtube.com/watch?v=8DvywoWv6fI
+Kaggle Course
+https://www.kaggle.com/learn/python
+Python Tutorial for beginners with Telusco
+https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+C++
+10 hour tutorial: https://www.youtube.com/watch?v=_bYFu9mBnr4
 
-### Markdown
+## Practice your code
+https://exercism.io/
+https://leetcode.com/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Further Studying
+https://exercism.io/
+https://leetcode.com/
 
-```markdown
-Syntax highlighted code block
+## Other FAQs:
+**1. A frequent question that comes up is "Which should I pick- Python or R?"**
+The following two articles present perspectives on the strengths of each of these and why you may consider either.
+[https://www.datacamp.com/community/blog/when-to-use-python-or-r
+[https://medium.com/@data_driven/python-vs-r-for-data-science-and-the-winner-is-3ebb1a968197
 
-# Header 1
-## Header 2
-### Header 3
+## Sign up to https://lnkd.in/gitQ_Hv  to learn as part of a peer group and for ongoing mentorship.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iclaudiad/AILearningPath.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
