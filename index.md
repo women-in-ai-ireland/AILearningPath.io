@@ -7,8 +7,8 @@ On completion of this Learning Path, you will have the foundational skills to ap
 -          Build machine learning models
 
 ## Introduction to AI
-[Elements of AI](https://www.elementsofai.com)
-[Link](url)
+Elements of AI (https://www.elementsofai.com)
+
 
 ## AI and Ethics
  [Toby Walsh | TEDxBlighStreet](https://www.youtube.com/watch?v=HSsQApXQGsI)
