@@ -23,7 +23,7 @@ On completion of this Learning Path, you will have the foundational skills to ap
 
 [Linear Algebra](https://www.udemy.com/course/linear-algebra-course)
 
-[Calculus:](https://www.udemy.com/course/calculus1)
+[Calculus](https://www.udemy.com/course/calculus1)
 
 ## Programming
 **Python (Pick one of the following)**
