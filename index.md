@@ -27,6 +27,7 @@ On completion of this Learning Path, you will have the foundational skills to ap
 
 ## Programming
 **Python (Pick one of the following)**
+
 [Learn Python with Dr Chuck](https://www.youtube.com/watch?v=8DvywoWv6fI)
 
 [Kaggle Course](https://www.kaggle.com/learn/python)
@@ -34,7 +35,9 @@ On completion of this Learning Path, you will have the foundational skills to ap
 [Python Tutorial for beginners with Telusco](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 
 **[C++]**
+
 [10 hour tutorial](https://www.youtube.com/watch?v=_bYFu9mBnr4)
+
 
 ## Practice your code
 [Exercism](https://exercism.io/)
@@ -42,7 +45,7 @@ On completion of this Learning Path, you will have the foundational skills to ap
 [Leetcode](https://leetcode.com/)
 
 ## Further Studying
-**1. A frequent question that comes up is "Which should I pick- Python or R?"**
+**A frequent question that comes up is "Which should I pick- Python or R?"**
 
 The following two articles present perspectives on the strengths of each of these and why you may consider either:
 
@@ -51,4 +54,5 @@ The following two articles present perspectives on the strengths of each of thes
 [Python or R for data science](https://medium.com/@data_driven/python-vs-r-for-data-science-and-the-winner-is-3ebb1a968197)
 
 [Sign up to learn as part of a peer group and for ongoing mentorship](https://lnkd.in/gitQ_Hv)
+
 
