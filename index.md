@@ -53,6 +53,6 @@ The following two articles present perspectives on the strengths of each of thes
 
 [Python or R for data science](https://medium.com/@data_driven/python-vs-r-for-data-science-and-the-winner-is-3ebb1a968197)
 
-**[Sign up to learn as part of a peer group and for ongoing mentorship and to participate in ongoing learning projects](https://lnkd.in/gitQ_Hv)**
+**[Sign up to learn as part of a peer group, for ongoing mentorship and to participate in ongoing learning projects](https://lnkd.in/gitQ_Hv)**
 
 
