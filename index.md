@@ -11,14 +11,19 @@ Elements of AI (https://www.elementsofai.com)
 
 
 ## AI and Ethics
- [Toby Walsh | TEDxBlighStreet](https://www.youtube.com/watch?v=HSsQApXQGsI)
-[Covering computer vision in practice, data ethics, working towards socially responsible and ethics-informed research practices:]  (https://sites.google.com/view/fatecv-tutorial/schedule)
+[Toby Walsh | TEDxBlighStreet](https://www.youtube.com/watch?v=HSsQApXQGsI)
+ 
+ 
+[Covering computer vision in practice, data ethics, working towards socially responsible and ethics-informed research practices:](https://sites.google.com/view/fatecv-tutorial/schedule)
 
 ## Mathematics
 [Why Math matters](https://www.youtube.com/watch?v=8onB7rPG4Pk)
-[Statistics and Probability:](https://www.udemy.com/course/statistics-probability/)
-[Linear Algebra] (https://www.udemy.com/course/linear-algebra-course/)
-[Calculus:] (https://www.udemy.com/course/calculus1/)
+
+[Statistics and Probability:](https://www.udemy.com/course/statistics-probability)
+
+[Linear Algebra](https://www.udemy.com/course/linear-algebra-course)
+
+[Calculus:](https://www.udemy.com/course/calculus1)
 
 ## Programming
 **Python (Pick one of the following)**
