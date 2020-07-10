@@ -14,7 +14,7 @@ On completion of this Learning Path, you will have the foundational skills to ap
 [Toby Walsh | TEDxBlighStreet](https://www.youtube.com/watch?v=HSsQApXQGsI)
  
  
-[Covering computer vision in practice, data ethics, working towards socially responsible and ethics-informed research practices:](https://sites.google.com/view/fatecv-tutorial/schedule)
+[Covering computer vision in practice, data ethics, working towards socially responsible and ethics-informed research practices](https://sites.google.com/view/fatecv-tutorial/schedule)
 
 ## Mathematics
 [Why Math matters](https://www.youtube.com/watch?v=8onB7rPG4Pk)
