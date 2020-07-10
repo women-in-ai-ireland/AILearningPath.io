@@ -7,7 +7,7 @@ On completion of this Learning Path, you will have the foundational skills to ap
 -          Build machine learning models
 
 ## Introduction to AI
-Elements of AI (https://www.elementsofai.com)
+[Elements of AI](https://www.elementsofai.com)
 
 
 ## AI and Ethics
@@ -27,22 +27,22 @@ Elements of AI (https://www.elementsofai.com)
 
 ## Programming
 **Python (Pick one of the following)**
-[Learn Python with Dr. Chuck] (https://www.youtube.com/watch?v=8DvywoWv6fI)
+[Learn Python with Dr. Chuck](https://www.youtube.com/watch?v=8DvywoWv6fI)
 
 
-[Kaggle Course] (https://www.kaggle.com/learn/python)
+[Kaggle Course](https://www.kaggle.com/learn/python)
 
 
-[Python Tutorial for beginners with Telusco] (https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+[Python Tutorial for beginners with Telusco](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 
 **[C++]**
-[10 hour tutorial] (https://www.youtube.com/watch?v=_bYFu9mBnr4)
+[10 hour tutorial](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 
 ## Practice your code
-[Exercism] (https://exercism.io/)
+[Exercism](https://exercism.io/)
 
 
-[Leetcode] (https://leetcode.com/)
+[Leetcode](https://leetcode.com/)
 
 ## Further Studying
 **1. A frequent question that comes up is "Which should I pick- Python or R?"**
