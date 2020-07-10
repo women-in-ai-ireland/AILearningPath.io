@@ -29,7 +29,9 @@ Elements of AI (https://www.elementsofai.com)
 **Python (Pick one of the following)**
 [Learn Python with Dr. Chuck] (https://www.youtube.com/watch?v=8DvywoWv6fI)
 
+
 [Kaggle Course] (https://www.kaggle.com/learn/python)
+
 
 [Python Tutorial for beginners with Telusco] (https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 
@@ -39,6 +41,7 @@ Elements of AI (https://www.elementsofai.com)
 ## Practice your code
 [Exercism] (https://exercism.io/)
 
+
 [Leetcode] (https://leetcode.com/)
 
 ## Further Studying
@@ -46,9 +49,12 @@ Elements of AI (https://www.elementsofai.com)
 
 The following two articles present perspectives on the strengths of each of these and why you may consider either:
 
+
 [When to use Python or R](https://www.datacamp.com/community/blog/when-to-use-python-or-r)
+
 
 [Python or R for data science](https://medium.com/@data_driven/python-vs-r-for-data-science-and-the-winner-is-3ebb1a968197)
 
-** [Sign up] https://lnkd.in/gitQ_Hv  to learn as part of a peer group and for ongoing mentorship.**
+
+**[Sign up] https://lnkd.in/gitQ_Hv  to learn as part of a peer group and for ongoing mentorship.**
 
