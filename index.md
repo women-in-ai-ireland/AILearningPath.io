@@ -44,6 +44,11 @@ On completion of this Learning Path, you will have the foundational skills to ap
 
 [Leetcode](https://leetcode.com/)
 
+
+## Deep Learning
+[Deep Learning](https://www.fast.ai/)
+
+
 ## Further Studying
 **A frequent question that comes up is "Which should I pick- Python or R?"**
 
