@@ -25,6 +25,8 @@ On completion of this Learning Path, you will have the foundational skills to ap
 
 [Calculus](https://www.udemy.com/course/calculus1)
 
+[Statistics](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
+
 ## Programming
 **Python (Pick one of the following)**
 
