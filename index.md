@@ -25,7 +25,7 @@ On completion of this Learning Path, you will have the foundational skills to ap
 
 [Calculus](https://www.udemy.com/course/calculus1)
 
-[Statistics](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
+[Statistical Thinking](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
 
 ## Programming
 **Python (Pick one of the following)**
@@ -35,6 +35,8 @@ On completion of this Learning Path, you will have the foundational skills to ap
 [Kaggle Course](https://www.kaggle.com/learn/python)
 
 [Python Tutorial for beginners with Telusco](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+
+[Python Machine Learning Tutorial Series](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr)
 
 **[C++]**
 
@@ -49,6 +51,9 @@ On completion of this Learning Path, you will have the foundational skills to ap
 
 ## Deep Learning
 [Deep Learning](https://www.fast.ai/)
+
+[Python Chatbot Project Tutorial Series-Chatbot with Deep Learning](https://www.youtube.com/playlist?list=PLzMcBGfZo4-ndH9FoC4YWHGXG5RZekt-Q)
+
 
 
 ## Further Studying
