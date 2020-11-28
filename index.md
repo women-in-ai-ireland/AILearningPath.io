@@ -28,11 +28,11 @@ On completion of this Learning Path, you will have the foundational skills to ap
 ## Programming
 **Python (Pick one of the following)**
 
+[Python 3 Video Tutorials](https://www.youtube.com/watch?v=Gqby4v5JOu4&list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK&index=3)
+
 [Learn Python with Dr Chuck](https://www.youtube.com/watch?v=8DvywoWv6fI)
 
 [Kaggle Course](https://www.kaggle.com/learn/python)
-
-[Basic Python](https://www.programiz.com/python-programming/tutorial)
 
 [Python Tutorial for beginners with Telusco](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 
