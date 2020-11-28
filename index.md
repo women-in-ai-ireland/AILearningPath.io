@@ -32,6 +32,8 @@ On completion of this Learning Path, you will have the foundational skills to ap
 
 [Kaggle Course](https://www.kaggle.com/learn/python)
 
+[Basic Python](https://www.programiz.com/python-programming/tutorial)
+
 [Python Tutorial for beginners with Telusco](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 
 **[C++]**
